@@ -4,7 +4,7 @@ Hey! I'm
 
 --- welcome to my GitHub profile
 
-I am a colourful amalgamation of coder, events industry professional and a lover of puzzels.
+<!-- I am a colourful amalgamation of coder, events industry professional and a lover of puzzels.
 
 Recently graduated from the University of Western Australia Full Stack Coding Bootcamp run by ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 
@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->

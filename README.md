@@ -1,6 +1,8 @@
-## Hi there 👋
+Hey! I'm
 
-<img src ="\img\ds_linkedin_banner1.png">
+<img src ="\img\DS_linkedinbanner.png">
+
+--- welcome to my GitHub profile
 
 I am a colourful amalgamation of coder, events industry professional and a lover of puzzels.
 

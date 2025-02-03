@@ -1,5 +1,8 @@
+Hey! I'm
 
 <img src ="\img\DS_linkedinbanner.png">
+
+--- welcome to my GitHub profile
 
 <!--
 **domspenc/domspenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -55,7 +55,7 @@ Software/Tools:
 
 ---
 
-## 📨<b>Connect with me!</b>
+## 📨<b> Connect with me!</b>
 
 <a href="https://www.linkedin.com/in/dominiquespencer/"><img alt="badge for GitHub" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
 

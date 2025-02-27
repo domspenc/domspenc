@@ -20,7 +20,7 @@ Before moving to Perth and following the sun, I was the Operations Director at S
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## 🚀<b> Skills</b>
 
 Languages:
 <br/>
@@ -55,7 +55,7 @@ Software/Tools:
 
 ---
 
-## <b>Connect with me!</b>
+## 📨<b>Connect with me!</b>
 
 <a href="https://www.linkedin.com/in/dominiquespencer/"><img alt="badge for GitHub" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a> 
 

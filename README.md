@@ -20,7 +20,7 @@ Before moving to Perth and following the sun, I was the Operations Director at S
 
 ---
 
-## 🚀<b> Skills</b>
+## 🚀 Skills
 
 Languages:
 <br/>
